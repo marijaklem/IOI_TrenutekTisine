@@ -327,7 +327,6 @@ export default function Home() {
             <ModalOverlay />
             <ModalContent>
               <ModalHeader>TRENUTEK TIŠINE</ModalHeader>
-              <ModalCloseButton />
               <ModalBody>
                 <Text fontSize="md">
                   Trenutek tišine je projekt za osveščanje ljudi o znakovnem jeziku, ki ga za komunikacijo večinoma uporabljajo osebe s težavami s sluhom.<br></br>
