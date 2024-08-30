@@ -139,6 +139,8 @@ export default function Home() {
           Handsigns.tSign,
           Handsigns.uSign,
           Handsigns.vSign,
+          Handsigns.wSign,
+          Handsigns.ySign,
           Handsigns.zSign,
         ])
 
